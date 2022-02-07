@@ -30,7 +30,7 @@
 
 ## 3. New Program
 
-### 3.1. Solution of [2.4]
+### 3.1. Changes
 
 <추가 예정>
 
